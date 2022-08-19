@@ -52,7 +52,7 @@ const BoxTextSkills = () => {
               </h3>
               <p className="mb-6">
                 Retoque de fotografias: quitar fondo a imagenes, correccion de
-                colores.
+                colores, creacion de logos...
               </p>
               <a href="#" className="block font-medium text-purple-600">
                 ver mas...
