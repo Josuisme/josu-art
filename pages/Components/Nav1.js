@@ -9,15 +9,7 @@ const Nav1 = () => {
         <div className="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8">
           <div className="relative flex items-center justify-between h-16">
             <div className="flex items-center px-2 lg:px-0">
-              <a className="flex-shrink-0" href="#">
-                <Image
-                  className="hidden lg:block h-12 w-auto"
-                  src=""
-                  width="auto"
-                  height="12"
-                  alt="Logo"
-                />
-              </a>
+              <a className="flex-shrink-0" href="#"></a>
               <div className="hidden lg:block lg:ml-2">
                 <div className="flex">
                   <Link href="/">
