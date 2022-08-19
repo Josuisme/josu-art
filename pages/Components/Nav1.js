@@ -62,7 +62,7 @@ const Nav1 = () => {
             </div>
           </div>
         </div>
-        <div x-show="menu" className="block md:hidden">
+        <div x-show="menu" className="block lg:hidden">
           <div className="px-2 pt-2 pb-3">
             <Link href="/">
               <a
