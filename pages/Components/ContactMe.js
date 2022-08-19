@@ -5,7 +5,12 @@ const ContactMe = () => {
     <div className="container mx-auto">
       <div className="flex justify-center px-6 my-12">
         <div className="w-full xl:w-3/4 lg:w-11/12 flex">
-          <picture width="160" height="120" alt="Logo">
+          <picture
+            className="hidden lg:block"
+            width="160"
+            height="120"
+            alt="Logo"
+          >
             <source srcSet="https://www.nicepng.com/png/full/235-2354724_cm-contact-me-logo.png" />
             <img
               className="h-1/2"
