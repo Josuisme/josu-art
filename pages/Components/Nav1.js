@@ -115,7 +115,7 @@ const Nav1 = () => {
             <Link href="/">
               <a
                 href="#"
-                className="mt-1 block px-3 py-2 rounded-md text-white font-semibold font-medium hover:bg-yellow-500 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out"
+                className="mt-1 block px-3 py-2 rounded-md text-white font-weigt:600 font-medium hover:bg-yellow-500 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out"
               >
                 Inicio{" "}
               </a>
@@ -123,7 +123,7 @@ const Nav1 = () => {
             <Link href="/desings">
               <a
                 href="#"
-                className="mt-1 block px-3 py-2 rounded-md text-white font-semibold font-medium hover:bg-yellow-500 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out"
+                className="mt-1 block px-3 py-2 rounded-md text-white font-weigt:600 font-medium hover:bg-yellow-500 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out"
               >
                 Diseños{" "}
               </a>
@@ -131,7 +131,7 @@ const Nav1 = () => {
             <Link href="/venta3d">
               <a
                 href="#"
-                className="mt-1 block px-3 py-2 rounded-md text-white font-semibold font-medium hover:bg-yellow-500 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out"
+                className="mt-1 block px-3 py-2 rounded-md text-white font-weigt:600 font-medium hover:bg-yellow-500 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out"
               >
                 Diseños en venta{" "}
               </a>
@@ -139,7 +139,7 @@ const Nav1 = () => {
             <Link href="/phoilu">
               <a
                 href="#"
-                className="mt-1 block px-3 py-2 rounded-md text-white font-semibold font-medium hover:bg-yellow-500 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out"
+                className="mt-1 block px-3 py-2 rounded-md text-white font-weigt:600 font-medium hover:bg-yellow-500 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out"
               >
                 Photoshop e Ilustrador{" "}
               </a>
@@ -147,7 +147,7 @@ const Nav1 = () => {
             <Link href="/acerca">
               <a
                 href="#"
-                className="mt-1 block px-3 py-2 rounded-md text-white font-semibold font-medium hover:bg-yellow-500 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out"
+                className="mt-1 block px-3 py-2 rounded-md text-white font-weigt:600 font-medium hover:bg-yellow-500 focus:outline-none focus:text-white focus:bg-gray-700 transition duration-150 ease-in-out"
               >
                 Acerca de mi{" "}
               </a>
