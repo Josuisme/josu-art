@@ -16,7 +16,16 @@ const BoxTextSkills = () => {
                 ver mas...
               </a>
             </div>
-            imagen
+            <picture width="160" height="120" alt="Logo">
+              <source
+                srcSet="https://assets.spartangeek.com/cc/computadora-animacion-y-modelado-3d.jpg"
+                type="image/webp"
+              />
+              <img
+                src="https://assets.spartangeek.com/cc/computadora-animacion-y-modelado-3d.jpg"
+                alt="Landscape picture"
+              />
+            </picture>
           </div>
           <div className="bg-white rounded-2xl shadow-xl px-8 py-12 sm:px-12 lg:px-8">
             <div className="mb-12 space-y-4">
@@ -28,7 +37,13 @@ const BoxTextSkills = () => {
                 ver mas...
               </a>
             </div>
-            imagen
+            <picture width="160" height="120" alt="Logo">
+              <source srcSet="https://i.etsystatic.com/18544673/r/il/2e30dd/2378353869/il_570xN.2378353869_mkfy.jpg" />
+              <img
+                src="https://i.etsystatic.com/18544673/r/il/2e30dd/2378353869/il_570xN.2378353869_mkfy.jpg"
+                alt="Landscape picture"
+              />
+            </picture>
           </div>
           <div className="bg-white rounded-2xl shadow-xl px-8 py-12 sm:px-12 lg:px-8">
             <div className="mb-12 space-y-4">
@@ -43,7 +58,13 @@ const BoxTextSkills = () => {
                 ver mas...
               </a>
             </div>
-            imagen
+            <picture width="160" height="120" alt="Logo">
+              <source srcSet="https://www.oversodoinverso.com.br/wp-content/uploads/2016/03/capa4.jpg" />
+              <img
+                src="https://www.oversodoinverso.com.br/wp-content/uploads/2016/03/capa4.jpg"
+                alt="Landscape picture"
+              />
+            </picture>
           </div>
         </div>
       </div>

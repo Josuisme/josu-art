@@ -13,13 +13,6 @@ const Nav1 = () => {
             <div className="flex items-center px-2 lg:px-0">
               <a className="flex-shrink-0" href="#">
                 <Image
-                  className="block lg:hidden"
-                  src=""
-                  width="16"
-                  height="12"
-                  alt="Logo"
-                />
-                <Image
                   className="hidden lg:block h-12 w-auto"
                   src=""
                   width="auto"
