@@ -1,6 +1,6 @@
 export function BoxText(props) {
   return (
-    <h1 className="text-4xl text-center m-9 p-6 h-20 w-auto bg-amber-300 text-gray-800 hover:text-white">
+    <h1 className="text-4xl text-center m-9 p-6 w-auto bg-amber-300 text-gray-800 hover:text-white">
       {props.titulo}
     </h1>
   );

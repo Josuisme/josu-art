@@ -16,12 +16,12 @@ const acerca = () => {
           <p className="m-10 text-2xl">
             Me dedico a el diseño 3d, y me gusta emprender nuevos negocios, uno
             de estos negocios fue la impresion 3d y la venta de los archivos
-            para que cualquiera pueda imprimirlos en su casa.
+            digitales 3d con los cuales cualquiera pueda comprarlos y
+            posteriormente imprimirlos en su casa.
             <br />
-            Tengo un gusto por la creacion de videojuegos, en la que espero
-            pronto pueda incurcionar en ese rubro, desde siempre me han gustado
-            los juegos y me gustaria llegar a crearlos, todavia estoy en proceso
-            de ello.
+            Me gusta la creacion de videojuegos, espero pronto pueda crear mi
+            primer juego, siempre me han gustado los videojuegos y me gustaria
+            llegar a crearlos, aunque todavia estoy en proceso.
             <br />
           </p>
         </div>
