@@ -1,6 +1,5 @@
 import React from "react";
 import { BoxText, Text } from "./Components/BoxText";
-import BoxTextSkills from "./Components/BoxTextSkills";
 import ContactMe from "./Components/ContactMe";
 import ImagenGal from "./Components/ImagenGal";
 import Nav1 from "./Components/Nav1";
