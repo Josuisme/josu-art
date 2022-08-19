@@ -25,62 +25,70 @@ const ImagenGal = () => {
         </p>
       </div>
       <div className="grid lg:grid-cols-4 sm:grid-cols-2 grid-cols-1 lg:grap-8 md:gap-6 gap-4 mt-10">
-        <div className="relative group">
-          <picture width="160" height="120" alt="Logo">
-            <source srcSet="https://images.cults3d.com/IJdP5nH3F7gAppzm-1ZIxCLkoPM=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/9ed4dd07-d675-4519-9c0f-e1c1c3a94f7c/IMG_20220112_011346_092.jpg" />
-            <img
-              src="https://images.cults3d.com/IJdP5nH3F7gAppzm-1ZIxCLkoPM=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/9ed4dd07-d675-4519-9c0f-e1c1c3a94f7c/IMG_20220112_011346_092.jpg"
-              alt="Landscape picture"
-            />
-            <div className="text-xl text-center m-10 p-5 bg-slate-400 h-auto rounded-3xl">
-              Chica maga obscura
-            </div>
-          </picture>
-          <div className="flex justify-center items-center opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
-          <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100"></div>
-        </div>
-        <div className="relative group">
-          <picture width="160" height="120" alt="Logo">
-            <source srcSet="https://images.cults3d.com/vSL-Z0KJPFrRaHvoNJWdCc41eFU=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/97766846-d7b0-4cad-9c83-7774dc4abcd3/rend5.jpg" />
-            <img
-              src="https://images.cults3d.com/vSL-Z0KJPFrRaHvoNJWdCc41eFU=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/97766846-d7b0-4cad-9c83-7774dc4abcd3/rend5.jpg"
-              alt="Landscape picture"
-            />
-            <div className="text-xl text-center m-10 p-5 bg-slate-400 h-auto rounded-3xl">
-              Lord Voldemort
-            </div>
-          </picture>
-          <div className="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
-          <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100"></div>
-        </div>
-        <div className="relative group">
-          <picture width="160" height="120" alt="Logo">
-            <source srcSet="https://images.cults3d.com/l17NnjTOdAAacUg1DgzoGNveWkY=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/016266f2-141e-4424-9611-4d121e81bb0b/Hq-3d-for-3d-print-img1-1.png" />
-            <img
-              src="https://images.cults3d.com/l17NnjTOdAAacUg1DgzoGNveWkY=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/016266f2-141e-4424-9611-4d121e81bb0b/Hq-3d-for-3d-print-img1-1.png"
-              alt="Landscape picture"
-            />
-            <div className="text-xl text-center m-10 p-5 bg-slate-400 h-auto rounded-3xl">
-              Harley Quinn
-            </div>
-          </picture>
-          <div className="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
-          <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100"></div>
-        </div>
-        <div className="relative group">
-          <picture width="160" height="120" alt="Logo">
-            <source srcSet="https://images.cults3d.com/ZHlAS5zhn9zr8A-qp1HyQhjoyTA=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/464aa3be-6667-42c5-9593-073c95c0d120/5.jpg" />
-            <img
-              src="https://images.cults3d.com/ZHlAS5zhn9zr8A-qp1HyQhjoyTA=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/464aa3be-6667-42c5-9593-073c95c0d120/5.jpg"
-              alt="Landscape picture"
-            />
-            <div className="text-xl text-center m-10 p-5 bg-slate-400 h-auto rounded-3xl">
-              PICKLE RICK RAT
-            </div>
-          </picture>
-          <div className="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
-          <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100"></div>
-        </div>
+        <a href="https://cults3d.com/es/modelo-3d/arte/dark-magician-girl-josuart">
+          <div className="relative group">
+            <picture width="160" height="120" alt="Logo">
+              <source srcSet="https://images.cults3d.com/IJdP5nH3F7gAppzm-1ZIxCLkoPM=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/9ed4dd07-d675-4519-9c0f-e1c1c3a94f7c/IMG_20220112_011346_092.jpg" />
+              <img
+                src="https://images.cults3d.com/IJdP5nH3F7gAppzm-1ZIxCLkoPM=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/9ed4dd07-d675-4519-9c0f-e1c1c3a94f7c/IMG_20220112_011346_092.jpg"
+                alt="Landscape picture"
+              />
+              <div className="text-xl text-center m-10 p-5 bg-slate-400 h-auto rounded-3xl">
+                Chica maga obscura
+              </div>
+            </picture>
+            <div className="flex justify-center items-center opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
+            <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100"></div>
+          </div>
+        </a>
+        <a href="https://cults3d.com/es/modelo-3d/arte/voldemort-josuart">
+          <div className="relative group">
+            <picture width="160" height="120" alt="Logo">
+              <source srcSet="https://images.cults3d.com/vSL-Z0KJPFrRaHvoNJWdCc41eFU=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/97766846-d7b0-4cad-9c83-7774dc4abcd3/rend5.jpg" />
+              <img
+                src="https://images.cults3d.com/vSL-Z0KJPFrRaHvoNJWdCc41eFU=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/97766846-d7b0-4cad-9c83-7774dc4abcd3/rend5.jpg"
+                alt="Landscape picture"
+              />
+              <div className="text-xl text-center m-10 p-5 bg-slate-400 h-auto rounded-3xl">
+                Lord Voldemort
+              </div>
+            </picture>
+            <div className="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
+            <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100"></div>
+          </div>
+        </a>
+        <a href="https://cults3d.com/es/modelo-3d/arte/harley-quinn-josuart">
+          <div className="relative group">
+            <picture width="160" height="120" alt="Logo">
+              <source srcSet="https://images.cults3d.com/l17NnjTOdAAacUg1DgzoGNveWkY=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/016266f2-141e-4424-9611-4d121e81bb0b/Hq-3d-for-3d-print-img1-1.png" />
+              <img
+                src="https://images.cults3d.com/l17NnjTOdAAacUg1DgzoGNveWkY=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/016266f2-141e-4424-9611-4d121e81bb0b/Hq-3d-for-3d-print-img1-1.png"
+                alt="Landscape picture"
+              />
+              <div className="text-xl text-center m-10 p-5 bg-slate-400 h-auto rounded-3xl">
+                Harley Quinn
+              </div>
+            </picture>
+            <div className="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
+            <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100"></div>
+          </div>
+        </a>
+        <a href="https://cults3d.com/es/modelo-3d/arte/pickle-rick-rat">
+          <div className="relative group">
+            <picture width="160" height="120" alt="Logo">
+              <source srcSet="https://images.cults3d.com/ZHlAS5zhn9zr8A-qp1HyQhjoyTA=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/464aa3be-6667-42c5-9593-073c95c0d120/5.jpg" />
+              <img
+                src="https://images.cults3d.com/ZHlAS5zhn9zr8A-qp1HyQhjoyTA=/filters:format(webp)/https://files.cults3d.com/uploaders/18405977/illustration-file/464aa3be-6667-42c5-9593-073c95c0d120/5.jpg"
+                alt="Landscape picture"
+              />
+              <div className="text-xl text-center m-10 p-5 bg-slate-400 h-auto rounded-3xl">
+                PICKLE RICK RAT
+              </div>
+            </picture>
+            <div className="opacity-0 bg-gradient-to-t from-gray-800 via-gray-800 to-opacity-30 group-hover:opacity-50 absolute top-0 left-0 h-full w-full" />
+            <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center opacity-0 hover:opacity-100"></div>
+          </div>
+        </a>
       </div>
     </div>
   );
