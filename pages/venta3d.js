@@ -1,5 +1,4 @@
 import React from "react";
-import BoxTextSkills from "./Components/BoxTextSkills";
 import ContactMe from "./Components/ContactMe";
 import Nav1 from "./Components/Nav1";
 
